@@ -1,0 +1,53 @@
+commit 5c66324a5e67985db58e6e0da2ca42e9eb830477
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue May 25 19:49:14 2021 +0200
+
+    README file editing
+
+commit a982d67d89ff9abd5c9a12a738992085b4a44468
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue May 25 19:14:58 2021 +0200
+
+    README file
+
+commit aa2b402d6e559269154d9826ea072e57a6bc86f2
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue May 25 18:49:32 2021 +0200
+
+    java docs complilation
+
+commit abf111fd51b81d7108ce8ce7e878e599f40fb276
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue May 25 18:16:46 2021 +0200
+
+    java docs complilation
+
+commit 6bf33e665351a7912608b42bd1fe64413963d25c
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue May 25 00:23:18 2021 +0200
+
+    output file editing
+
+commit 67e7def6c2f6ab4109af54a7a68b163ad39b4611
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Mon May 24 21:11:28 2021 +0200
+
+    output file
+
+commit 8bf655d8848739ac912748022358158109f04fdb
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Mon May 24 20:19:43 2021 +0200
+
+    makefile
+
+commit 42b34fdd0a568f71bb176e2298937f4bbeb29649
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Mon May 24 19:34:13 2021 +0200
+
+    file read
+
+commit 7e4f407b303a1caba6dbdd209217666c4c5609a9
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Sun May 23 17:28:29 2021 +0200
+
+    read binary file

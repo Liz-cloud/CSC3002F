@@ -1,0 +1,29 @@
+commit e4c6518df1e4cc0c8c553c43e3ae004293368df6
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue Jun 15 02:48:18 2021 +0200
+
+    Testing Bonding Simulation
+
+commit 0543b284d6ab08eb436759edf14b6b1026e26534
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue Jun 15 02:43:11 2021 +0200
+
+    generate java docs
+
+commit d3ba8d67f6bb7fadca46b62921b408dc094f2ab0
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue Jun 15 02:42:39 2021 +0200
+
+    make file
+
+commit d53708789671e46929f6938aad4c55c4b17578b3
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue Jun 15 02:33:22 2021 +0200
+
+    READ ME file edited
+
+commit 8557e49c3d1da89c66d026d9152c7e26bc23715b
+Author: Liz-cloud <mfnlin003@myuct.ac.za>
+Date:   Tue Jun 15 01:37:02 2021 +0200
+
+    Producer1 set
